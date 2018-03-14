@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ang panget ko, hello
+=======
+Ang panget ko, ikaw din
+>>>>>>> new_feature
